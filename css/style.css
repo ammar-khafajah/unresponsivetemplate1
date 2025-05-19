@@ -848,7 +848,7 @@ message contact section*/
 }
 .formElement:focus
 {
-    border-bottom: 3px solid #6195ff;
+    border-bottom: 2px solid #6195ff;
 }
 #submit
 {
