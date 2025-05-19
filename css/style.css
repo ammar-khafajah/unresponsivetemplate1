@@ -832,7 +832,11 @@ message contact section*/
 }
 #theName,#theMail
 {
-    width: 49%;
+    width: 48%;
+}
+#theMail
+{
+    float: right;
 }
 #subject,#msg
 {
